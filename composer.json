@@ -1,0 +1,40 @@
+{
+    "name": "fjarfs/src-general",
+    "description": "Function General SRC environment",
+    "type": "library",
+    "keywords": [
+        "fjarfs",
+        "fajar",
+        "src-general"
+    ],
+    "require": {
+        "php": ">=7"
+    },
+    "require-dev": {
+        "laravel/laravel": "^5.6",
+        "laravel/lumen": "^5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fjarfs\\SrcGeneral\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fajar Sujito",
+            "email": "fjarfs@gmail.com"
+        }
+    ],
+    "scripts": {
+        "cs": "phpcs --standard=PSR12 src/"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Fjarfs\\SrcGeneral\\SrcGeneralProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable"
+}
