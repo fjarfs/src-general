@@ -20,11 +20,11 @@
 ### Function yang tersedia
 
 - **Helper**
-	- [Access](#access)
+	- [Access](#dqbAccess)
 
 ### Cara Penggunaan
 
-- <a name="#access"></a> **Access**
+- <a name="#dqbAccess"></a> **Access**
 
     Access Module
 
