@@ -1,5 +1,11 @@
 # SRC General
 
+<p align="center">
+<a href="https://packagist.org/packages/fjarfs/src-general"><img src="https://img.shields.io/packagist/dt/fjarfs/src-general" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/fjarfs/src-general"><img src="https://img.shields.io/packagist/v/fjarfs/src-general" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/fjarfs/src-general"><img src="https://img.shields.io/packagist/l/fjarfs/src-general" alt="License"></a>
+</p>
+
 **SRC General** merupakan package yang digunakan oleh aplikasi SRC dan berisi tentang function-function yang bersifat general
 
 ### Cara Install
